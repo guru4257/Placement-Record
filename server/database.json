@@ -1,0 +1,60 @@
+{
+  "tasks": [
+    {
+      "id": 17,
+      "label": "GUSA",
+      "description": "Fullstack Developer - Package : 1000Cr/year",
+      "category": "Software",
+      "done": false
+    },
+    {
+      "id": 6,
+      "label": "Google",
+      "description": "Software Developer - Package : 1CR/Year ",
+      "category": "Software",
+      "done": false
+    },
+    {
+      "id": 7,
+      "label": "Tesla",
+      "description": "Junior Software Engineer - Package : 45LPA",
+      "category": "Software",
+      "done": false
+    },
+    {
+      "id": 12,
+      "label": "Mr.Cooper",
+      "description": "Fullstack Developer - Package : 7.5LPA",
+      "category": "Software",
+      "done": false
+    },
+    {
+      "id": 14,
+      "label": "SP Plus",
+      "description": "For Developer Role - Package : 10LPA",
+      "category": "Software",
+      "done": "29-04-2023"
+    },
+    {
+      "id": 15,
+      "label": "NBase2",
+      "description": "Embeded Engineer - Package : 6.5LpA",
+      "category": "Hardware",
+      "done": "29-04-2023"
+    },
+    {
+      "id": 16,
+      "label": "Saptang Labs",
+      "description": "Fullstack Developer - Package : 10LPA",
+      "category": "Software",
+      "done": false
+    },
+    {
+      "id": 18,
+      "label": "Apple",
+      "description": "Software developer - package ; 80cr/year",
+      "category": "Software",
+      "done": false
+    }
+  ]
+}
